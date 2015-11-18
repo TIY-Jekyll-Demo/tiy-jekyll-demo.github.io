@@ -162,15 +162,15 @@ font-size: 18px;
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0px;
 }
 .post-link {
 display: block;
 font-size: 42px;
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
+/** Journal formatting ********************************************/
+.journal-title {
 font-size: 24px;
 letter-spacing: -1px;
 line-height: 1;
@@ -180,7 +180,7 @@ font-size: 16px;
 }
 
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 // Nicolas Gallagher's micro clearfix hack
@@ -234,7 +234,7 @@ text-align: center;
 .thumbnail a:hover span {
 display: block;
 }
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox{
@@ -247,7 +247,7 @@ overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
-.col{ 
+.col{
 width: 100%;
 height: 100%;
 float: left;
